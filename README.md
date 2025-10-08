@@ -9,7 +9,7 @@ A book recommendation chatbot built with FastAPI, React, and DistilGPT-2.
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AlikhanIT/book-buddy/tree/main
    cd bookbuddy
    ```
 2. Build and run the containers:
