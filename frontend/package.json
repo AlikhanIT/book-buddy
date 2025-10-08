@@ -1,0 +1,16 @@
+{
+  "name": "bookbuddy-frontend",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
+  }
+}
